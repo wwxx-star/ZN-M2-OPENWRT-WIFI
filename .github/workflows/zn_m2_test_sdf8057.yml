@@ -16,7 +16,7 @@ on:
 
 env:
   REPO_URL: https://github.com/8688Add/ipq6000
-  REPO_BRANCH: wifi
+  REPO_BRANCH: main
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: ./config/cmiot_ax18/zn_m2_test-sdf8057.config
   DIY_P1_SH: ./custom/cmiot_ax18/sdf8057/diy-part1.sh
