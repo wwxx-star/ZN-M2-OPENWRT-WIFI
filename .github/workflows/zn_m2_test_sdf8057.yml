@@ -15,8 +15,8 @@ on:
   workflow_dispatch:
 
 env:
-  REPO_URL: https://github.com/soandsoso/ipq60xx
-  REPO_BRANCH: main
+  REPO_URL: https://github.com/wwxx-star/ZN-M2-OPENWRT-WIFI
+  REPO_BRANCH: wifi
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: ./config/cmiot_ax18/zn_m2_test-sdf8057.config
   DIY_P1_SH: ./custom/cmiot_ax18/sdf8057/diy-part1.sh
