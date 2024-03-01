@@ -15,7 +15,7 @@ on:
   workflow_dispatch:
 
 env:
-  REPO_URL: https://github.com/8688Add/ipq6000
+  REPO_URL: https://github.com/wwxx-star/ZN-M2-OPENWRT-WIFI
   REPO_BRANCH: wifi
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: ./config/cmiot_ax18/zn_m2_test_lean.config
